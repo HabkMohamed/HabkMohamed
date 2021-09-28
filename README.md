@@ -10,13 +10,18 @@ const Dreamx = {
     Discord: "Dreamx#9999",
 };
 ```
-<a href="https://github.com/FnrDev?tab=followers">
+<a href="https://github.com/HabkMohamed?tab=followers">
   <img src="https://img.shields.io/github/followers/HabkMohamed">
 </a>
-<a href="https://github.com/FnrDev">
+<a href="https://github.com/HabkMohamed">
    <img src="https://komarev.com/ghpvc/?username=HabkMohamed">
 </a>
 
+
+<a href="https://discord.gg/QhzWhMSGb8">
+            <img src="https://canary.discordapp.com/api/guilds/877276304662212658/embed.png" alt="Discord server">
+        </a>
+        
 ---
 
 ### GitHub Stats 🌟
